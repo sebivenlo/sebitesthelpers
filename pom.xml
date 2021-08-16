@@ -5,6 +5,31 @@
     <artifactId>sebitesthelpers</artifactId>
     <version>2.0.0</version>
     <packaging>jar</packaging>
+    <description>Fontys Venlo best maven practices. 
+        set of test helpers to easy the writing of non functional tests, such as visiblity, naughty code etc.
+    </description>
+
+    <developers>
+        <developer>
+            <id>hom</id>
+            <email>pieter.van.den.hombergh@gmail.com</email>
+            <name>Pieter van den Hombergh</name>
+            <organization>Fontys Hogeschool voor Techniek en Logistiek,
+                Opleidingen Software Engineering en Business Informatica (SEBI)</organization>
+            <timezone>2.0.0+</timezone>
+            <roles>
+                <role>main developer</role>
+            </roles>
+        </developer>
+    </developers>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <url>https://sebivenlo.github.io/sebitesthelpers/</url>
+
     <parent>
         <groupId>io.github.sebivenlo</groupId>
         <artifactId>testeasypom</artifactId>
